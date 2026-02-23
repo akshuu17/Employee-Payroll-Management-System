@@ -27,29 +27,7 @@ It helps organizations manage employees, calculate salaries, and generate paysli
 - Backend: (Optional / API Based)
 - Database: (Optional / API Based)
 
----
-
-PayrollPro/
-│
-├── src/
-│ ├── app/
-│ │ ├── login/
-│ │ ├── dashboard/
-│ │ ├── employee/
-│ │ ├── salary/
-│ │ ├── payslip/
-│ │ └── navbar/
-│ │
-│ ├── assets/
-│ └── environments/
-│
-├── angular.json
-├── package.json
-└── README.md
-
-
----
-
+  
 ## ⚙️ Installation Requirements
 
 Before running this project, make sure you have:
